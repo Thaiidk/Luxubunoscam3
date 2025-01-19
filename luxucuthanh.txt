@@ -4,7 +4,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 
 local Window = Fluent:CreateWindow({
     Title = "Thaidepzai-preium",
-    SubTitle = "v1",
+    SubTitle = "version 2",
     TabWidth = 160,
     Size = UDim2.fromOffset(530, 350),
     Acrylic = false,
